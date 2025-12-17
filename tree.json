@@ -1,0 +1,24 @@
+{
+  "chart": {
+    "container": "#tree",
+    "rootOrientation": "NORTH",
+    "nodeAlign": "CENTER",
+    "connectors": {
+      "type": "step"
+    }
+  },
+  "nodeStructure": {
+    "text": { "name": "ChatGPT" },
+    "HTMLclass": "node-name",
+    "children": [
+      {
+        "text": { "name": "Ayah" },
+        "HTMLclass": "node-name"
+      },
+      {
+        "text": { "name": "Ibu" },
+        "HTMLclass": "node-name"
+      }
+    ]
+  }
+}
